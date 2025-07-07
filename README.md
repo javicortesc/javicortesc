@@ -1,6 +1,3 @@
-¡Genial! 🎉 Aquí tienes el README listo para usar en tu perfil. Solo tienes que copiarlo y pegarlo en un archivo llamado `README.md` en tu repositorio de perfil (`javicortesc/javicortesc`). Si necesitas hacer algún ajuste en el futuro, ¡aquí estaré para ayudarte!
-
-````markdown name=README.md
 # ¡Hola! 👋 Soy Javi Cortés
 
 **Ingeniero de Proyectos** en [SAAM LOGISTICS LOGISTICS](https://www.aep.cl/aep-en-linea)  
@@ -38,4 +35,3 @@
 ---
 
 ¡Gracias por pasar por aquí! 😄
-````
