@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Javi Cortés
+# ¡Hola! 👋 Soy Javier
 
 **Ingeniero de Proyectos** en [SAAM LOGISTICS LOGISTICS](https://www.aep.cl/aep-en-linea)  
 🚢 Apasionado por la integración de sistemas y el desarrollo de APIs eficientes
